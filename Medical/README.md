@@ -16,6 +16,10 @@ Multiple areas in which researchers are working involve mostly Diagnostics which
 2.
 ## Archives
 1. **Attention U-Net:** Learning Where to Look for the Pancreas https://arxiv.org/pdf/1804.03999.pdf
+## Challenges
+1. ISBI Challenge: Segmentation of neuronal structures in EM stacks. http://brainiac2.mit.edu/isbi_challenge/
+2. 
+
 ## Blogs
 ## News
 ## Researchers
