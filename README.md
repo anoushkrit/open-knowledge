@@ -6,10 +6,10 @@ Contains information links, articles, research papers, tweets, blog posts, compa
 |[Adversarial](/Adversarial/README.md)|
 |[Audio](/Audio/README.md)|
 |[Medical](/Medical/README.md)|
-|[Compute Vision](/Computer Vision/README.md)|
-|[Machine Learning](/Machine Learning/README.md)|
+|[Compute%20Vision](/Computer Vision/README.md)|
+|[Machine%20Learning](/Machine Learning/README.md)|
 |[Methodology](/Methodology/README.md)|
-|[Natural%Language%Processing](/Natural Language Processing/README.md)|
+|[Natural%20Language%20Processing](/Natural Language Processing/README.md)|
 |[Quantum Computing](/Quantum Computing/README.md)|
 |[Sources](/Sources/README.md)|
 |[Speech](/Speech/README.md)|
