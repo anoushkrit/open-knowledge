@@ -5,11 +5,19 @@ Multiple areas in which researchers are working involve mostly Diagnostics which
     1. Lesion Segmentation 
     2. Brain Tumor Segmentation 
     3. Organ Segmentation 
+    4. 3D Medical Imaging Segmentation
+    5. Retina Vessel Segmentation
 2. Medical Image Classification 
 
 ## Datasets
+1. TGS Salt Identification Challenge https://www.kaggle.com/c/tgs-salt-identification-challenge/data
 ## Research Papers
+1. **Attention U-Net:** Learning Where to Look for the Pancreas. https://arxiv.org/abs/1804.03999
+2.
+## Archives
+1. **Attention U-Net:** Learning Where to Look for the Pancreas https://arxiv.org/pdf/1804.03999.pdf
 ## Blogs
 ## News
 ## Researchers
 ## Key People
+
