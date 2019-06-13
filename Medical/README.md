@@ -11,16 +11,19 @@ Multiple areas in which researchers are working involve mostly Diagnostics which
 
 ## Datasets
 1. TGS Salt Identification Challenge https://www.kaggle.com/c/tgs-salt-identification-challenge/data
+2. **DRIVE: Digital Retinal Images for Vessel Extraction**. http://www.isi.uu.nl/Research/Databases/DRIVE/
+
 ## Research Papers
 1. **Attention U-Net:** Learning Where to Look for the Pancreas. https://arxiv.org/abs/1804.03999
-2.
+
 ## Archives
 1. **Attention U-Net:** Learning Where to Look for the Pancreas https://arxiv.org/pdf/1804.03999.pdf
 ## Challenges
 1. ISBI Challenge: Segmentation of neuronal structures in EM stacks. http://brainiac2.mit.edu/isbi_challenge/
-2. 
 ## Repostiories
 1. **Attention U-net** : https://github.com/nabsabraham/focal-tversky-unet
+2. **Retina U-net**: https://github.com/orobix/retina-unet
+3. **Pytorch-Unet**: https://github.com/milesial/Pytorch-UNet
 ## Blogs
 ## News
 ## Researchers
