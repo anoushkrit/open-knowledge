@@ -18,7 +18,12 @@ Multiple areas in which researchers are working involve mostly Diagnostics which
 1. **Attention U-Net:** Learning Where to Look for the Pancreas. https://arxiv.org/abs/1804.03999
 
 ## Archives
-1. **Attention U-Net:** Learning Where to Look for the Pancreas https://arxiv.org/pdf/1804.03999.pdf
+[1] Olaf Ronneberger, Philipp Fischer, and Thomas Brox. **U-Net: Convolutional Networks for Biomedical
+Image Segmentation**. https://arxiv.org/pdf/1505.04597.pdf<br/>
+[2] Eugenio Culurciello. **Neural Network Architectures.** https://towardsdatascience.com/neural-network-architectures-156e5bad51ba<br/>
+[3] Attention U-net [State-of-the-art as of June 2019]
+[4] **Attention U-Net:** Learning Where to Look for the Pancreas https://arxiv.org/pdf/1804.03999.pdf
+
 ## Challenges
 1. ISBI Challenge: Segmentation of neuronal structures in EM stacks. http://brainiac2.mit.edu/isbi_challenge/
 ## Repostiories
