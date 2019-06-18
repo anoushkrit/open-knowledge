@@ -3,6 +3,8 @@
 1. Understanding Semantic Segmentation with UNET. https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47
 2.  
 
+## Repositories
+1. Attention Gated Networks (Attention U-net). https://github.com/ozan-oktay/Attention-Gated-Networks
 ## Research Paper
 1. U-Net: Convolutional Networks for Biomedical Image Segmentation. https://arxiv.org/pdf/1505.04597.pdf
 2. Fully Convolutional Networks for Semantic Segmentation. https://arxiv.org/pdf/1411.4038.pdf
