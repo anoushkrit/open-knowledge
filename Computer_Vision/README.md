@@ -5,6 +5,7 @@
 
 ## Repositories
 1. Attention Gated Networks (Attention U-net). https://github.com/ozan-oktay/Attention-Gated-Networks
+2. Yog AI. https://github.com/smellslikeml/YogAI
 ## Research Paper
 1. U-Net: Convolutional Networks for Biomedical Image Segmentation. https://arxiv.org/pdf/1505.04597.pdf
 2. Fully Convolutional Networks for Semantic Segmentation. https://arxiv.org/pdf/1411.4038.pdf
