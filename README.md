@@ -17,3 +17,10 @@ Contains information links, articles, research papers, tweets, blog posts, compa
 |[Robots](/Robots/README.md)|
 
 
+## Educational Websites
+1. **[Fast.ai](https://www.fast.ai/)
+    1. [Practical Deep Learning for Coders](http://course.fast.ai/)
+    2. [Cutting Edge Deep Learning for Coders](http://course18.fast.ai/part2.html)
+    3. [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
+    4. [Computational Linear Algebra](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
+
