@@ -25,4 +25,7 @@ Contains information links, articles, research papers, tweets, blog posts, compa
     4. [Computational Linear Algebra](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
     5. [U-net](http://course18.fast.ai/lessons/lesson14.html)
     
+    
+## Neuroscience
+1. Toward an Integration of Deep Learning and Neuroscience. https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full
 
