@@ -28,7 +28,7 @@ Contains information links, articles, research papers, tweets, blog posts, compa
  
  ## Learning
  1. Understanding Semantic Segmentation with UNET. https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47
-2.  
+2.  [Full Stack Deep Learning](https://fullstackdeeplearning.com/march2019)
     
     
 ## Neuroscience
