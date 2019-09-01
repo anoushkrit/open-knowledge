@@ -1,8 +1,8 @@
 ## Courses
 
 ### Google Cloud Platform
-1. Building Resilient Streaming Systems on Google Cloud Platform (https://www.coursera.org/learn/building-resilient-streaming-systems-gcp)
-2. Serverless Machine Learning with Tensorflow on Google Cloud Platform (https://www.coursera.org/learn/serverless-machine-learning-gcp?specialization=gcp-data-machine-learning)
+1. [Building Resilient Streaming Systems on Google Cloud Platform](https://www.coursera.org/learn/building-resilient-streaming-systems-gcp)
+2. [Serverless Machine Learning with Tensorflow on Google Cloud Platform](https://www.coursera.org/learn/serverless-machine-learning-gcp?specialization=gcp-data-machine-learning)
 3. 
 
 ### Stanford University
