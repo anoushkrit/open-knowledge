@@ -13,6 +13,7 @@
 ## Blogs
 
 1. [RL— Introduction to Deep Reinforcement Learning](https://medium.com/@jonathan_hui/rl-introduction-to-deep-reinforcement-learning-35c25e04c199)
+2. [](https://deepsense.ai/what-is-reinforcement-learning-the-complete-guide/)
 
 
 
