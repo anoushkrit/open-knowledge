@@ -7,7 +7,7 @@
 
 ## Courses
 
-1. [](https://www.coursera.org/specializations/reinforcement-learning)
+1. [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning)
 
 
 ## Blogs
