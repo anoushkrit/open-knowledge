@@ -10,4 +10,9 @@
 1. 
 
 
+## Blogs
+
+1. [](https://medium.com/@jonathan_hui/rl-introduction-to-deep-reinforcement-learning-35c25e04c199)
+
+
 
