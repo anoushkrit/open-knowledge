@@ -8,7 +8,7 @@
 ## Courses
 
 1. [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning)
-2. [](https://www.coursera.org/learn/practical-rl)
+2. [Practical Machine Learning](https://www.coursera.org/learn/practical-rl)
 
 
 ## Blogs
