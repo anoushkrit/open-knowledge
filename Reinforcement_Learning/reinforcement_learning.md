@@ -16,4 +16,8 @@
 2. [What is Reinforcement Learning](https://deepsense.ai/what-is-reinforcement-learning-the-complete-guide/)
 
 
+## Competitions
+
+1. https://aws.amazon.com/deepracer/league/
+
 
