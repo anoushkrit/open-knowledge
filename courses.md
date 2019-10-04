@@ -7,6 +7,13 @@
 
 ### Stanford University
 1. [Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
+2. [EE269 - Signal Processing for Machine Learning](http://web.stanford.edu/class/ee269/slides.html)
+
 ### Specializations
 1. [Data Engineering, Big Data, and Machine Learning on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning)
 2. [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)
+
+### IIT Kanpur
+
+1. [EE698V: Machine Learning for Signal Processing](http://home.iitk.ac.in/~vipular/stuff/2019_MLSP.html)
+
