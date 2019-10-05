@@ -1,5 +1,5 @@
 
-Startups in general:
+## Startups in general:
 
 - [Ideas are just a multiplier of execution](http://sivers.org/multiply)
 - [Do things that don't scale by Paul Graham](http://paulgraham.com/ds.html)
@@ -14,7 +14,7 @@ Startups in general:
 - [How to make sense of conflicting startup advice](http://www.bothsidesofthetable.com/2014/08/30/here-is-how-to-make-sense-of-conflicting-startup-advice/)
 - [The Dentist Office Software Story](http://avc.com/2014/07/the-dentist-office-software-story/)
 
-Management, Scaling and Hiring:
+## Management, Scaling and Hiring:
 
 - [Management advice from Naval](http://blog.djinni.co/post/68061191934/naval-ravikant-angellist-eventually-startups-will-be)
 - [A new kind of company without managers](http://firstround.com/article/How-Medium-is-building-a-new-kind-of-company-with-no-managers)
@@ -24,17 +24,17 @@ Management, Scaling and Hiring:
 - [Master's of Scale by Reid Hoffman: a podcast series](https://mastersofscale.com/)
 
 
-Customer development:
+## Customer development:
 
 - [Validating Product Ideas Before Building Them](https://training.kalzumeus.com/newsletters/archive/validating_product_ideas)
 - [An MVP is not a cheaper product by Steve Blank](http://steveblank.com/2013/07/22/an-mvp-is-not-a-cheaper-product-its-about-smart-learning/)
 - [Create products that people love by validating your idea first by Hiten Shah](http://hitenism.com/business-ideas/)
 
-Engineering:
+## Engineering:
 
 - [The one cost engineers and product managers don't consider](http://firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider)
 
-Venture capital and raising money:
+## Venture capital and raising money:
 
 - [Black Swan farming by Paul Graham](http://paulgraham.com/swan.html)
 - [How to convince investors by Paul Graham](http://paulgraham.com/convince.html)
@@ -44,11 +44,11 @@ Venture capital and raising money:
 - [Pitch Decks for VCs - You’re doing it wrong.](https://medium.com/boost-vc/5-rules-for-the-pitch-deck-d7c7bbc3185d)
 - [Raising Capital: This is the Advice We Give Our Founders](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders/)
 
-Legal Advice:
+## Legal Advice:
 
 - [If I launched a startup by Ryan Roberts](http://startuplawyer.com/startup-issues/if-i-launched-a-startup)
 
-Marketing, Sales & metrics:
+## Marketing, Sales & metrics:
 
 - [The Pmarca Guide to Startups, part 4: The only thing that matters](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)
 - [Startup Metrics for Pirates by Dave McClure](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)
@@ -70,7 +70,7 @@ Marketing, Sales & metrics:
 - [Extensive notes from SalesConf](http://codingvc.com/extensive-notes-from-salesconf)
 - [If SaaS Products Sell Themselves, Why Do We Need Sales](http://a16z.com/2014/05/30/selling-saas-products-dont-sell-themselves/)
 
-Postmortems & Learnings:
+## Postmortems & Learnings:
 
 - [http://thederek.com/post/117083143500/lessons-learned-four-years-startup-founder](Lessons Learned After Four Years as a Startup Founder)
 - [https://medium.com/@brett1211/postmortem-of-a-venture-backed-startup-72c6f8bec7df](Postmortem of a Venture-backed Startup (Sonar))
@@ -137,5 +137,10 @@ Postmortems & Learnings:
 - [http://ycombinator.com/lib.html](http://ycombinator.com/lib.html)
 - [http://platformsandnetworks.blogspot.com/2009/11/compilation-of-webs-best-advice-for.html](http://platformsandnetworks.blogspot.com/2009/11/compilation-of-webs-best-advice-for.html)
 - [http://steveblank.com/tools-and-blogs-for-entrepreneurs/](http://steveblank.com/tools-and-blogs-for-entrepreneurs/)
+
+
+## News and Articles
+
+- [What Startups Last](https://hbr.org/2016/03/start-ups-that-last)
 
 
