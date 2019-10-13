@@ -4,7 +4,7 @@ Contains information links, articles, research papers, tweets, blog posts, compa
 
 |Field| Datasets| Research Papers| Code| News| Courses| People|
 |-----|---------|----------------|-----|-----|--------|-------|
-|[Adversarial](/Adversarial/README.md)|
+|[Adversarial](/Adversarial.md)|
 |[Audio](/Audio/README.md)|
 |[Medical](/Medical/README.md)|
 |[Compute Vision](/Computer-Vision.md)|
