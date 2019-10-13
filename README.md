@@ -13,7 +13,7 @@ Contains information links, articles, research papers, tweets, blog posts, compa
 |[Natural Language Processing](/Natural-Language-Processing.md)|
 |[Quantum Computing](/Quantum_Computing/README.md)|
 |[Sources](/Sources/README.md)|
-|[Speech](/Speech/README.md)|
+|[Speech](/Speech.md)|
 |[News](/News.md)|
 |[Robots](/Robots.md)|
 
