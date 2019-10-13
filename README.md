@@ -11,7 +11,7 @@ Contains information links, articles, research papers, tweets, blog posts, compa
 |[Machine Learning](/Machine-Learning.md)|
 |[Methodology](/Methodology.md)|
 |[Natural Language Processing](/Natural-Language-Processing.md)|
-|[Quantum Computing](/Quantum_Computing/README.md)|
+|[Quantum Computing](/Quantum-Computing.md)|
 |[Sources](/Sources/README.md)|
 |[Speech](/Speech.md)|
 |[News](/News.md)|
