@@ -10,7 +10,7 @@ Contains information links, articles, research papers, tweets, blog posts, compa
 |[Compute Vision](/Computer-Vision.md)|
 |[Machine Learning](/Machine-Learning.md)|
 |[Methodology](/Methodology.md)|
-|[Natural Language Processing](/Natural_Language_Processing/README.md)|
+|[Natural Language Processing](/Natural-Language-Processing.md)|
 |[Quantum Computing](/Quantum_Computing/README.md)|
 |[Sources](/Sources/README.md)|
 |[Speech](/Speech/README.md)|
