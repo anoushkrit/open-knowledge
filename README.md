@@ -14,7 +14,7 @@ Contains information links, articles, research papers, tweets, blog posts, compa
 |[Quantum Computing](/Quantum_Computing/README.md)|
 |[Sources](/Sources/README.md)|
 |[Speech](/Speech/README.md)|
-|[News](/News/README.md)|
+|[News](/News.md)|
 |[Robots](/Robots.md)|
 
 
