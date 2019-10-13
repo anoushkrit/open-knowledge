@@ -7,7 +7,7 @@ Contains information links, articles, research papers, tweets, blog posts, compa
 |[Adversarial](/Adversarial/README.md)|
 |[Audio](/Audio/README.md)|
 |[Medical](/Medical/README.md)|
-|[Compute Vision](/Computer_Vision/README.md)|
+|[Compute Vision](/Computer-Vision.md)|
 |[Machine Learning](/Machine_Learning/README.md)|
 |[Methodology](/Methodology/README.md)|
 |[Natural Language Processing](/Natural_Language_Processing/README.md)|
