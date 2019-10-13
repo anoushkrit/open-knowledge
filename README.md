@@ -15,7 +15,7 @@ Contains information links, articles, research papers, tweets, blog posts, compa
 |[Sources](/Sources/README.md)|
 |[Speech](/Speech/README.md)|
 |[News](/News/README.md)|
-|[Robots](/Robots/README.md)|
+|[Robots](/Robots.md)|
 
 
 ## Educational Websites
