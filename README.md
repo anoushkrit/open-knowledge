@@ -5,7 +5,7 @@ Contains information links, articles, research papers, tweets, blog posts, compa
 |Field| Datasets| Research Papers| Code| News| Courses| People|
 |-----|---------|----------------|-----|-----|--------|-------|
 |[Adversarial](/Adversarial.md)|
-|[Audio](/Audio/README.md)|
+|[Audio](/Audio.md)|
 |[Medical](/Medical/README.md)|
 |[Compute Vision](/Computer-Vision.md)|
 |[Machine Learning](/Machine-Learning.md)|
