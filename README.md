@@ -9,7 +9,7 @@ Contains information links, articles, research papers, tweets, blog posts, compa
 |[Medical](/Medical/README.md)|
 |[Compute Vision](/Computer-Vision.md)|
 |[Machine Learning](/Machine-Learning.md)|
-|[Methodology](/Methodology/README.md)|
+|[Methodology](/Methodology.md)|
 |[Natural Language Processing](/Natural_Language_Processing/README.md)|
 |[Quantum Computing](/Quantum_Computing/README.md)|
 |[Sources](/Sources/README.md)|
