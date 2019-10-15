@@ -7,7 +7,8 @@ Deep Learning eliminates the job of Feature Extraction which was involved earlie
 
 ### Blogs
 
-####
+#### Optimizers
+
 #### Activation Functions
 
 What are Activation Functions?
