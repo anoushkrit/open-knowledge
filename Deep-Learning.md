@@ -11,6 +11,7 @@ Deep Learning eliminates the job of Feature Extraction which was involved earlie
 #### For Activation Functions
 
 What are Activation Functions?
+Activation Functions form one of the units of a Neuron
 
 1. [A Practical Guide to ReLU](https://medium.com/@danqing/a-practical-guide-to-relu-b83ca804f1f7#targetText=ReLU%20stands%20for%20rectified%20linear,neural%20networks%2C%20especially%20in%20CNNs.)
 
