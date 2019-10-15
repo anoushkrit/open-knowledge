@@ -1,5 +1,6 @@
 # Deep Learning
 
+For understanding Deep Learning, individuals need to understand the essence of data and how data works.
 
 
 
