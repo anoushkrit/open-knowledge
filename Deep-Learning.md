@@ -2,6 +2,7 @@
 
 For understanding Deep Learning, individuals need to understand the essence of data and how data works. Here, we need the data to work for us. 
 
+Deep Learning eliminates the job of Feature Extraction which was involved earlier with the 
 
 
 ### Blogs
