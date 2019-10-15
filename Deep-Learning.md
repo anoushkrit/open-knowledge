@@ -26,3 +26,4 @@ Activation Functions form one of the units of a Neuron. Layers comprises of Neur
 ## Appendix
 
 ### Neuron
+Neuron, inspired from Biology
