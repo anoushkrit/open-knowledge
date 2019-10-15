@@ -9,6 +9,12 @@ Deep Learning eliminates the job of Feature Extraction which was involved earlie
 
 #### Optimizers
 
+1. Adam
+
+2. RMS Prop
+
+
+
 #### Activation Functions
 
 What are Activation Functions?
