@@ -7,3 +7,4 @@
 
 ## Documentation
 Documentation plays a very crucial part in development of a technical project.
+Hence,
