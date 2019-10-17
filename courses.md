@@ -17,3 +17,7 @@
 
 1. [EE698V: Machine Learning for Signal Processing](http://home.iitk.ac.in/~vipular/stuff/2019_MLSP.html)
 
+
+### Udacity
+
+1. [Introduction to TensorFlow Lite](https://mclick.udacity.com/z/4matukb1?uid=47e408a8-55a0-4174-9697-989a544028ac&mid=70a1489a-5e73-4ea0-a97f-8cffab9ae59d&ek=2019-10-16T16%3A21%3A32Z) **FREE**
