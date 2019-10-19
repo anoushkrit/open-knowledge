@@ -1,5 +1,5 @@
 # Description
-Sequence contains the 
+"Sequence" contains the data
 ## Datasets
 ## Dependencies
 1. Scipy
