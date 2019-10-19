@@ -1,5 +1,5 @@
 # Description
-"Sequence" contains the data
+"Sequence" contains the subject matter related to topics like "Time Series", "Signal", "Speech", "Audio", "Video" etc.
 ## Datasets   
 ## Dependencies
 1. Scipy
