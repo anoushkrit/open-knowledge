@@ -2,6 +2,7 @@
 ## Datasets
 ## Dependencies
 1. Scipy
+2. Scipy DSP Library
 ## Research Papers
 ## Blogs
 1. [Tutorial: Recognize intents from speech using the Speech SDK for C](https://docs.microsoft.com/en-us/azure/cognitive-services/Speech-Service/how-to-recognize-intents-from-speech-csharp)
