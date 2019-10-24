@@ -12,6 +12,8 @@
 ### Specializations
 1. [Data Engineering, Big Data, and Machine Learning on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning)
 2. [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)
+3. [TensorFlow in Practice](https://www.coursera.org/specializations/tensorflow-in-practice?)
+
 
 ### IIT Kanpur
 
