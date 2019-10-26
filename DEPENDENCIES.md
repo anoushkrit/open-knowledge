@@ -11,3 +11,4 @@
 For nodejs follow this link, [Installing nodejs on Ubuntu](https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/)
 
 
+![nodejs install](/assets/d-1.png)
