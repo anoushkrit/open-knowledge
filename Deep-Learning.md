@@ -12,7 +12,7 @@ Deep Learning eliminates the job of Feature Extraction which was involved earlie
 1. Adam
 
 2. RMS Prop
-
+From the TensorFlow perspective, explore the function [RMSProp Optimizer](https://www.tensorflow.org/versions/r1.15/api_docs/python/tf/train/RMSPropOptimizer)
 
 
 #### Activation Functions
