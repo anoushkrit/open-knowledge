@@ -15,6 +15,11 @@ Deep Learning eliminates the job of Feature Extraction which was involved earlie
 From the TensorFlow perspective, explore the function [RMSProp Optimizer](https://www.tensorflow.org/versions/r1.15/api_docs/python/tf/train/RMSPropOptimizer)
 
 
+#### Learning Algotithms
+
+1. [Mini-Batch Gradient Descent](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
+
+
 #### Activation Functions
 
 
