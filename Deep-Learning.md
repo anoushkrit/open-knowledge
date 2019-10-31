@@ -45,13 +45,13 @@ Rectified Linear Unit
 1. IDPB [Jost Toblin](https://t.co/9Y7kDc1hag?amp=1)
 2. Unittest [Things I wish we had known before we started our first Machine Learning project](https://medium.com/infinity-aka-aseem/things-we-wish-we-had-known-before-we-started-our-first-machine-learning-project-336d1d6f2184)
 3. Unittest
-4. Disabling Regularization [Practical Advice for Building Deep Neural Networks](https://pcc.cs.byu.edu/2017/10/02/practical-advice-for-building-deep-neural-networks/)
-5. No Visualization [Top 6 errors novice machine learning engineers make](https://medium.com/ai%C2%B3-theory-practice-business/top-6-errors-novice-machine-learning-engineers-make-e82273d394db)
-6.
+4. Disabling Regularization
+5. No Visualization
 
  * [How to unit test machine learning code.](https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765)
  * [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
- 
+ *  [Top 6 errors novice machine learning engineers make](https://medium.com/ai%C2%B3-theory-practice-business/top-6-errors-novice-machine-learning-engineers-make-e82273d394db)
+ * [Practical Advice for Building Deep Neural Networks](https://pcc.cs.byu.edu/2017/10/02/practical-advice-for-building-deep-neural-networks/)
 ## Appendix
 
 ### Neuron
