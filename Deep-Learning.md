@@ -40,6 +40,10 @@ Rectified Linear Unit
 1. [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 
 
+## Debugging
+
+1. IDPB [Jost Toblin](https://t.co/9Y7kDc1hag?amp=1)
+
 
 ## Appendix
 
