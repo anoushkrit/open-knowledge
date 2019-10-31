@@ -44,6 +44,8 @@ Rectified Linear Unit
 
 1. IDPB [Jost Toblin](https://t.co/9Y7kDc1hag?amp=1)
 2. Unittest [Things I wish we had known before we started our first Machine Learning project](https://medium.com/infinity-aka-aseem/things-we-wish-we-had-known-before-we-started-our-first-machine-learning-project-336d1d6f2184)
+3. Unittest [How to unit test machine learning code.](https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765)
+4.
 
 
 ## Appendix
