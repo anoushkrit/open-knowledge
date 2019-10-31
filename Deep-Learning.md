@@ -7,7 +7,6 @@ Deep Learning eliminates the job of Feature Extraction which was involved earlie
 
 ### Blogs
 1. [Raúl Gómez blog](https://gombru.github.io/)
-2.
 
 #### Optimizers
 
