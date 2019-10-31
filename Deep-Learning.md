@@ -47,6 +47,7 @@ Rectified Linear Unit
 3. Unittest [How to unit test machine learning code.](https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765)
 4. Disabling Regularization [Practical Advice for Building Deep Neural Networks](https://pcc.cs.byu.edu/2017/10/02/practical-advice-for-building-deep-neural-networks/)
 5. No Visualization [Top 6 errors novice machine learning engineers make](https://medium.com/ai%C2%B3-theory-practice-business/top-6-errors-novice-machine-learning-engineers-make-e82273d394db)
+6. [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
 
 
 ## Appendix
