@@ -1,9 +1,9 @@
 # List of unused Topics
 
-## Computer Code
-## Robots
-## Quantum Computing
-## Decentralized Applications. https://github.com/llSourcell/Learn_Blockchain_in_2_months#overview
-## Adversarial
-## Audio
-## Music
+1. Computer Code
+2. Robots
+3. Quantum Computing
+4. Decentralized Applications. https://github.com/llSourcell/Learn_Blockchain_in_2_months#overview
+5. Adversarial
+6. Audio
+7. Music
