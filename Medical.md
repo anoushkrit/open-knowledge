@@ -1,3 +1,10 @@
+# Domains
+
+1. Healthcare
+2.
+
+
+
 ## Medical
 This field is currently seeing many advancements with the help of AI. There are multiple fields in which researchers are focusing to tackle the problem of automation in the Medical field. <br/>
 Multiple areas in which researchers are working involve mostly Diagnostics which usually take a lot of time than the actual treatment.<br/>
