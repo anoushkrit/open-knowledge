@@ -1,4 +1,11 @@
 
+# Startups
+
+
+
+
+
+
 ## Startups in general:
 
 - [Ideas are just a multiplier of execution](http://sivers.org/multiply)
@@ -95,7 +102,7 @@
 - [Launchbit](http://www.launchbit.com/) - An email ad network that can promote your startup.
 - [Erlibird](http://erlibird.com/) - A site for early adopters to discover startups.
 - [Pressfriendly](http://www.pressfriendly.com/p/best_reporter) - Find the TechCrunch Reporter for Your Story
-- [ProductHunt](http://www.producthunt.com/) - the best new products, every day 
+- [ProductHunt](http://www.producthunt.com/) - the best new products, every day
 - [JustReachOut](https://justreachout.io/) - Helps you find reporters for your pitch
 
 ## Popular VC blogs/articles
@@ -128,7 +135,7 @@
 - [Founders At Work by Jessica Livingston](http://www.amazon.com/Founders-Work-Stories-Startups-ebook/dp/B009IXMK4O/) - A collection of interviews about the early days of popular technology companies
 - [The Founder's Dilemmas by Noam Wasserman](http://www.amazon.com/The-Founders-Dilemmas-Entrepreneurship-ebook/dp/B007AIXKUM/) - Drawing on a decade of research, Noam Wasserman reveals the common pitfalls founders face and how to avoid them.
 - [Venture Deals by Brad Feld and Jason Mendelson](http://www.amazon.com/Venture-Deals-Smarter-Capitalist-ebook/dp/B00AO2PWOI/)
-- [Venture Capitalists at Work by Tarang Shah and Sheetal Shah](http://www.amazon.com/Venture-Capitalists-Work-Billion-Dollar-ebook/dp/B006C9EM1Q/) - Venture Capitalists at Work: How VCs Identify and Build Billion-Dollar Successes offers unparalleled insights into the funding and management of companies like YouTube, Zappos, Twitter, Starent, Facebook, and Groupon. The venture capitalists profiled—among the best in the business—also reveal how they identify promising markets, products, and entrepreneurs. 
+- [Venture Capitalists at Work by Tarang Shah and Sheetal Shah](http://www.amazon.com/Venture-Capitalists-Work-Billion-Dollar-ebook/dp/B006C9EM1Q/) - Venture Capitalists at Work: How VCs Identify and Build Billion-Dollar Successes offers unparalleled insights into the funding and management of companies like YouTube, Zappos, Twitter, Starent, Facebook, and Groupon. The venture capitalists profiled—among the best in the business—also reveal how they identify promising markets, products, and entrepreneurs.
 [Traction: A Startup Guide to Getting Customers](http://www.amazon.com/Traction-Startup-Guide-Getting-Customers-ebook/dp/B00N06Y2DW/)
 
 ## Other lists
@@ -144,3 +151,6 @@
 - [What Startups Last](https://hbr.org/2016/03/start-ups-that-last)
 
 
+## Setting Up
+
+- [Ubuntu-NVIDIA-drivers](http://christopher5106.github.io/nvidia/2016/12/30/commands-nvidia-install-ubuntu-16-04.html)	
