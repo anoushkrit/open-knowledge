@@ -8,3 +8,4 @@
 6. Audio
 7. Music
 8. Reasoning
+9. Setting Up
