@@ -7,3 +7,4 @@
 5. Adversarial
 6. Audio
 7. Music
+8. Reasoning
