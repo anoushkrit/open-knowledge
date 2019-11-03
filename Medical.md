@@ -7,7 +7,7 @@ Multiple areas in which researchers are working involve mostly Diagnostics which
     3. Organ Segmentation
     4. 3D Medical Imaging Segmentation
     5. Retina Vessel Segmentation
-2. Medical Image Classification 
+2. Medical Image Classification
 
 ### Datasets
 1. TGS Salt Identification Challenge https://www.kaggle.com/c/tgs-salt-identification-challenge/data
