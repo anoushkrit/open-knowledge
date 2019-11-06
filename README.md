@@ -4,11 +4,11 @@ Contains information links, articles, research papers, tweets, blog posts, compa
 
 |Field| Datasets| Research Papers| Code| News| Courses| People|
 |-----|---------|----------------|-----|-----|--------|-------|
-|[Adversarial](/Adversarial.md)|
-|[Audio](/Audio.md)|
-|[Medical](/Medical/README.md)|
-|[Compute Vision](/Computer-Vision.md)|
-|[Machine Learning](/Machine-Learning.md)|
+|[SPATIAL](/SPATIAL.md)|
+|[TEXT](/TEXT.md)|
+|[DOMAINS](/DOMAINS.md)|
+|[SEQUENCE](/SEQUENCE.md)|
+|[TEMPORAL](/TEMPORAL.md)|
 |[Methodology](/Methodology.md)|
 |[Natural Language Processing](/Natural-Language-Processing.md)|
 |[Quantum Computing](/Quantum-Computing.md)|
