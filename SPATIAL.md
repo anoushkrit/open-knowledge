@@ -8,6 +8,8 @@
 
 
 
+
+
 ### Learning 
 1. Understanding Semantic Segmentation with UNET. https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47
 2.  
