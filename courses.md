@@ -23,3 +23,8 @@
 ### Udacity
 
 1. [Introduction to TensorFlow Lite](https://mclick.udacity.com/z/4matukb1?uid=47e408a8-55a0-4174-9697-989a544028ac&mid=70a1489a-5e73-4ea0-a97f-8cffab9ae59d&ek=2019-10-16T16%3A21%3A32Z) **FREE**
+
+
+### MIT OCW
+
+1. [Medical Artificial Intelligence](https://ocw.mit.edu/courses/health-sciences-and-technology/hst-947-medical-artificial-intelligence-spring-2005/)
