@@ -28,3 +28,4 @@
 ### MIT OCW
 
 1. [Medical Artificial Intelligence](https://ocw.mit.edu/courses/health-sciences-and-technology/hst-947-medical-artificial-intelligence-spring-2005/)
+2. MIT 6.034 [Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) (Fall 2010) Undergraduate
