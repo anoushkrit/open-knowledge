@@ -30,4 +30,5 @@
 1. [Medical Artificial Intelligence](https://ocw.mit.edu/courses/health-sciences-and-technology/hst-947-medical-artificial-intelligence-spring-2005/)
 2. MIT 6.034 [Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) (Fall 2010) Undergraduate
 3. MIT 6.971 [Biomedical Devices Design Laboratory](https://ocw.mit.edu/courses/mechanical-engineering/2-996-biomedical-devices-design-laboratory-fall-2007/) Fall 2007 Graduate
+4. MIT 6.872 [Biomedical Computing](https://ocw.mit.edu/courses/health-sciences-and-technology/hst-950j-biomedical-computing-fall-2010/)
 
