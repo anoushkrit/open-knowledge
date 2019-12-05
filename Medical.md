@@ -20,6 +20,7 @@ Multiple areas in which researchers are working involve mostly Diagnostics which
 1. TGS Salt Identification Challenge https://www.kaggle.com/c/tgs-salt-identification-challenge/data
 2. **DRIVE: Digital Retinal Images for Vessel Extraction**. http://www.isi.uu.nl/Research/Databases/DRIVE/
 3. **Open Access Biomedical Image Search Engine**. https://openi.nlm.nih.gov/
+4. **Up to Speed on Deep Learning in Medical Imaging**. </br> https://medium.com/the-mission/up-to-speed-on-deep-learning-in-medical-imaging-7ff1e91f6d71#.ie2vunuw2
 
 ### Research Papers
 1. **Attention U-Net:** Learning Where to Look for the Pancreas. https://arxiv.org/abs/1804.03999
