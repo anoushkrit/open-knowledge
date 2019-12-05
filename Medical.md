@@ -34,7 +34,7 @@ Image Segmentation**. https://arxiv.org/pdf/1505.04597.pdf<br/>
 ### Challenges
 1. ISBI Challenge: Segmentation of neuronal structures in EM stacks. http://brainiac2.mit.edu/isbi_challenge/
 2. [DREAM Challenges](http://dreamchallenges.org/)
-
+3. [VISCERAL](http://www.visceral.eu/) is an abbreviation for Visual Concept Extraction Challenge in Radiology.
 
 ### Repostiories
 1. **Attention U-net** : https://github.com/nabsabraham/focal-tversky-unet
