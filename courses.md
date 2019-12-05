@@ -21,7 +21,7 @@
 
 ### IIT Madras
 
-1. [PadhAI One.]https://padhai.onefourthlabs.in/
+1. [PadhAI One.](https://padhai.onefourthlabs.in/)
 
 
 ### Udacity
