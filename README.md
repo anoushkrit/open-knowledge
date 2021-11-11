@@ -3,7 +3,7 @@
 <font size = 3>
 Contains information links, articles, research papers, tweets, blog posts, companies etc and everything which is even minutely related to the field of Artificial Intelligence, Distributed Computing, Quantum Computing and Physics, Evolutionary Biology, Crypto-currency, Virual and Augmented Reality etc.
 
-|Field| Datasets| Research Papers| Code| News| Courses| People|
+<!-- |Field| Datasets| Research Papers| Code| News| Courses| People|
 |-----|---------|----------------|-----|-----|--------|-------|
 |[SPATIAL](/SPATIAL.md)|
 |[TEXT](/TEXT.md)|
@@ -17,7 +17,7 @@ Contains information links, articles, research papers, tweets, blog posts, compa
 |[Speech](/Speech.md)|
 |[News](/News.md)|
 |[Robots](/Robots.md)|
-
+ -->
 
 ## Educational Websites
 1. [**Fast.ai**](https://www.fast.ai/)
