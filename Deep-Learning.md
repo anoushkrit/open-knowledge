@@ -23,8 +23,9 @@ From the TensorFlow perspective, explore the function [RMSProp Optimizer](https:
 #### Loss Functions
 
 1. [Understanding Categorical Cross-Entropy Loss, Binary Cross-Entropy Loss, Softmax Loss, Logistic Loss, Focal Loss and all those confusing names](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
-#### Activation Functions
 
+
+#### Activation Functions
 
 What are Activation Functions?
 Activation Functions form one of the units of a Neuron. Layers comprises of Neurons.
@@ -33,6 +34,8 @@ Activation Functions form one of the units of a Neuron. Layers comprises of Neur
 1. ReLU
 Rectified Linear Unit
     1.  [A Practical Guide to ReLU](https://medium.com/@danqing/a-practical-guide-to-relu-b83ca804f1f7#targetText=ReLU%20stands%20for%20rectified%20linear,neural%20networks%2C%20especially%20in%20CNNs.)
+
+[12 Different Types of Activation Functions from V7 Labs](https://www.v7labs.com/blog/neural-networks-activation-functions)
 
 ### CNNs
 
@@ -46,7 +49,7 @@ Rectified Linear Unit
 3. Disabling Regularization
 4. No Visualization
 
-* [Jost Toblin](https://t.co/9Y7kDc1hag?amp=1)
+* [Jost Tobin](https://t.co/9Y7kDc1hag?amp=1)
 * [Things I wish we had known before we started our first Machine Learning project](https://medium.com/infinity-aka-aseem/things-we-wish-we-had-known-before-we-started-our-first-machine-learning-project-336d1d6f2184)
  * [How to unit test machine learning code.](https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765)
  * [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
