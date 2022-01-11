@@ -24,6 +24,10 @@ From the TensorFlow perspective, explore the function [RMSProp Optimizer](https:
 
 1. [Understanding Categorical Cross-Entropy Loss, Binary Cross-Entropy Loss, Softmax Loss, Logistic Loss, Focal Loss and all those confusing names](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
 
+#### Distances 
+
+1. [L0, L1, L2 Norm](https://montjoile.medium.com/l0-norm-l1-norm-l2-norm-l-infinity-norm-7a7d18a4f40c)
+
 
 #### Activation Functions
 
