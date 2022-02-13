@@ -27,6 +27,8 @@ Contains information links, articles, research papers, tweets, blog posts, compa
     4. [Computational Linear Algebra](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
     5. [U-net](http://course18.fast.ai/lessons/lesson14.html)
 2. [Deep Learning Analytics](www.deeplearninganalytics.org)
+3. [Professional Conference Recordings](https://slideslive.com/)
+	
  
  ## Learning
  1. Understanding Semantic Segmentation with UNET. https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47
