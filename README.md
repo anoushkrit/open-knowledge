@@ -68,7 +68,7 @@ Contains information links, articles, research papers, tweets, blog posts, compa
 4. Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun. **Deep Residual Learning for Image Recognition** . https://arxiv.org/abs/1512.03385
 1. Private Machine Learning in TensorFlow using Secure Computation. https://arxiv.org/pdf/1810.08130.pdf
 
-
+https://x.com/AIatMeta/status/1848409099949773234?t=MtySYZJ8faPj2opCAVgTEQ&s=19
 ## Key people
 
 ## Companies
