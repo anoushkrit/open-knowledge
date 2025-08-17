@@ -41,6 +41,8 @@ Stanford CS237B Principles of Robot Autonomy II https://online.stanford.edu/cour
 ### Multimodal Learning
 1. https://cmu-multicomp-lab.github.io/mmml-course/fall2020/
 
+### GenAI 
+1. IIT Mandras BS Online Degree. Prathosh. https://www.youtube.com/playlist?list=PLZ2ps__7DhBa5xCmncgH7kPqLqMBq7xlu
 
 ### Andrej Karpathy
 1. nanoGPT: https://youtu.be/kCc8FmEb1nY 
